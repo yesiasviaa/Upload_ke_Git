@@ -1,0 +1,2 @@
+Ini tugas1
+Upload ke Git
